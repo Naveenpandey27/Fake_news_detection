@@ -151,3 +151,5 @@ print(classification_report(y_test, pred_rfc))
 # Save the model
 joblib.dump(RFC, 'RFC_model.pkl')
 
+# Save the model
+joblib.dump(vectorization, 'vectorization.pkl')
