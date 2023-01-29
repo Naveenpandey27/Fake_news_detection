@@ -21,4 +21,5 @@ The data used to train the model can be found in the Fake.csv and True.csv files
 
 
 ![demo1](https://user-images.githubusercontent.com/66298494/215334890-918c9a09-3b81-4e23-80d2-bf8f5842defe.png)
-![demo2](https://user-images.githubusercontent.com/66298494/215334906-6d458db4-70a8-4957-9ca4-2a6e53b793da.png)
+![demo3](https://user-images.githubusercontent.com/66298494/215334975-dfb1056b-1198-45d1-a4ed-94e4abcd40ea.png)
+
