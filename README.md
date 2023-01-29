@@ -7,7 +7,8 @@ Getting Started
 To run the code, you need to install the following libraries:
 
 **pandas
-numpy
+
+**numpy**
 seaborn
 matplotlib
 scikit-learn
