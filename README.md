@@ -25,4 +25,6 @@ The data used to train the model can be found in the Fake.csv and True.csv files
 
 
 
-Demo : shorturl.at/cFJMZ
+Demo : https://naveenpandey27-fake-news-detection-streamlitapp-uvt2x6.streamlit.app/
+
+
