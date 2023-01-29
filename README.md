@@ -7,19 +7,12 @@ Getting Started
 To run the code, you need to install the following libraries:
 
 **pandas**
-
 **numpy**
-
 **seaborn**
-
 **matplotlib**
-
 **scikit-learn**
-
 **re**
-
 **string**
-
 **joblib**
 
 The data used to train the model can be found in the Fake.csv and True.csv files. The model then preprocesses the data, splits it into training and testing sets, and uses the TfidfVectorizer to vectorize the data. The model is trained using four algorithms, Logistic Regression and Decision Tree Classifier, Gradient Boosting Classifier, Random Forest Classifier.
